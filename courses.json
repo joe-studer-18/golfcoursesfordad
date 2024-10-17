@@ -1,26 +1,27 @@
-[{
-		"CourseKey": "GSPRange22",
+[
+	{
+		"CourseKey": "GSPRange22test",
 		"Name": "GSP Range 22 - test",
 		"DownloadURL": "https://www.dropbox.com/s/tl53r37k2qs5pfz/GSPRange22.zip?dl=1",
 		"RemoteVersion": "v1.0",
-		"ID": 0,
+		"ID": 7,
 		"Status": 0,
 		"LocalVersion": null,
-		"CourseFolder": "GSPRange22",
+		"CourseFolder": "GSPRange22test",
 		"CourseLocation": "Unknown",
 		"CourseDesigner": "Johnmeyer"
 	},
-    {
-        "ID": 1,
-        "CourseKey": "PaynesValley",
-        "Name": "Paynes Valley",
-        "DownloadURL2": "https:\/\/sgtloadbalancer.herokuapp.com\/?courseDL=PaynesValley",
-        "DownloadURL": "https:\/\/www.mediafire.com\/file\/xt9eqdxf9sxgw69\/paynes_valley_gsp.zip\/file",
-        "DownloadURL3": "https:\/\/dtrz37ctsyu07.cloudfront.net\/paynes_valley_gsp.zip",
-        "RemoteVersion": "v1.0",
-        "CourseLocation": "Hollister, MO",
-        "CourseDesigner": "runpuddrun",
-        "CourseFolder": "paynes_valley_gsp",
-        "remoteThumbnailImage": "https:\/\/simulatorgolftour.com\/public\/assets\/courseImages\/splashes\/splash_573.jpg",
-    }
+    	{
+	        "ID": 12,
+	        "CourseKey": "PaynesValley",
+	        "Name": "Paynes Valley",
+	        "DownloadURL2": "https:\/\/sgtloadbalancer.herokuapp.com\/?courseDL=PaynesValley",
+	        "DownloadURL": "https:\/\/www.mediafire.com\/file\/xt9eqdxf9sxgw69\/paynes_valley_gsp.zip\/file",
+	        "DownloadURL3": "https:\/\/dtrz37ctsyu07.cloudfront.net\/paynes_valley_gsp.zip",
+	        "RemoteVersion": "v1.0",
+	        "CourseLocation": "Hollister, MO",
+	        "CourseDesigner": "runpuddrun",
+	        "CourseFolder": "paynes_valley_gsp",
+	        "remoteThumbnailImage": "https:\/\/simulatorgolftour.com\/public\/assets\/courseImages\/splashes\/splash_573.jpg",
+   	 }
 ]
